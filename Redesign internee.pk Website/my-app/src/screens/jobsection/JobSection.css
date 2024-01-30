@@ -1,0 +1,21 @@
+.button {
+    background-color: #8A2BE2;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 12px 25px;
+    margin-left: "28%";
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 16px;
+    
+  }
+  .button1{
+    background-color: #8A2BE2;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 14px 55px;
+    margin-left: "28%";
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 16px;
+  }
